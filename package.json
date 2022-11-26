@@ -9,10 +9,14 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "escpos": "^2.4.11",
+    "@tanjaae/thaismartcardreader": "^0.2.6",
+    "axios": "^0.27.2",
+    "escpos": "^2.5.2",
+    "escpos-image-processor": "^1.0.8",
     "fs-extra": "^8.0.1",
     "lodash": "^4.17.11",
     "moment": "^2.24.0",
-    "mqtt": "^2.18.8"
+    "mqtt": "^2.18.8",
+    "path": "^0.12.7"
   }
 }
